@@ -1,0 +1,27 @@
+.who_we_are {
+    background-color: #282c34;
+    text-align: center;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-bottom: 5rem;
+  }
+
+  @media (max-width: 800px) {
+    .who_we_are {
+        background-color: #282c34;
+        text-align: center;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        padding-bottom: 5rem;
+      }
+  }
+  
+.who_we_are-text_feilds {
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 1vmin);
+    color: white;
+  }

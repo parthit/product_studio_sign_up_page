@@ -1,0 +1,12 @@
+.signUp_look {
+    padding-left: 25rem;
+    padding-right: 25rem;
+}
+
+
+@media (max-width: 800px) {
+    .signUp_look {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+  }

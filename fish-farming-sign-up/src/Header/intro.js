@@ -4,9 +4,9 @@ function Intro() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           Cornell Students for Fish Farming
-        </p>
+        </h1>
       </header>
     </div>
   );

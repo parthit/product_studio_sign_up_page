@@ -6,12 +6,16 @@ import Intro from './Header/intro';
 import reportWebVitals from './reportWebVitals';
 import GroupExample from './Body/Cards/our_solution';
 import SignUp from './Body/Sign_up/signUp';
+import WhoWeAre from './Body/Background_Info/background_info';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
     <Intro /> 
+    <WhoWeAre />
     <GroupExample />
+    <br />
+    <br />
     <SignUp />
   </div>
 
