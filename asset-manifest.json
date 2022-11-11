@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/product_studio_sign_up_page/static/css/main.3ef1a9cc.css",
-    "main.js": "/product_studio_sign_up_page/static/js/main.dc7cdda7.js",
+    "main.js": "/product_studio_sign_up_page/static/js/main.eaf56eba.js",
     "static/js/787.8326f1ac.chunk.js": "/product_studio_sign_up_page/static/js/787.8326f1ac.chunk.js",
+    "static/media/Picture 5.png": "/product_studio_sign_up_page/static/media/Picture 5.0832f0f261a8e1752908.png",
     "static/media/disolvedO2.jpeg": "/product_studio_sign_up_page/static/media/disolvedO2.b6653dd95b90acbe8c36.jpeg",
-    "static/media/pi_chart.png": "/product_studio_sign_up_page/static/media/pi_chart.99e7e05ee4ad821841c7.png",
-    "static/media/time_series.png": "/product_studio_sign_up_page/static/media/time_series.e210390fa1bf77c79f65.png",
+    "static/media/Picture 7.png": "/product_studio_sign_up_page/static/media/Picture 7.525aefd31527fed6bd89.png",
+    "static/media/Picture 6.png": "/product_studio_sign_up_page/static/media/Picture 6.ab82a969bdf32411328b.png",
+    "static/media/temperature.jpeg": "/product_studio_sign_up_page/static/media/temperature.ad762356bca0fd1a12e7.jpeg",
+    "static/media/ammonia.webp": "/product_studio_sign_up_page/static/media/ammonia.2349c38d7142b18cdab6.webp",
     "index.html": "/product_studio_sign_up_page/index.html",
     "main.3ef1a9cc.css.map": "/product_studio_sign_up_page/static/css/main.3ef1a9cc.css.map",
-    "main.dc7cdda7.js.map": "/product_studio_sign_up_page/static/js/main.dc7cdda7.js.map",
+    "main.eaf56eba.js.map": "/product_studio_sign_up_page/static/js/main.eaf56eba.js.map",
     "787.8326f1ac.chunk.js.map": "/product_studio_sign_up_page/static/js/787.8326f1ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ef1a9cc.css",
-    "static/js/main.dc7cdda7.js"
+    "static/js/main.eaf56eba.js"
   ]
 }
