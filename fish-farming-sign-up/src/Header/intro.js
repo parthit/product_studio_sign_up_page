@@ -5,7 +5,7 @@ function Intro() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Cornell Students for Fish Farming
+          Analytics for Fish Farming
         </h1>
       </header>
     </div>

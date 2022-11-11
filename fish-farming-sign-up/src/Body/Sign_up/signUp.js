@@ -19,14 +19,14 @@ function SignUp() {
         <br />
         <Form.Group className="mb-3" controlId="formBasicCheckbox">
         <Form.Label><h5>Solutions you are most interested in :</h5></Form.Label>
-          <Form.Check type="checkbox" label="Solution 1" />
-          <Form.Check type="checkbox" label="Solution 2" />
-          <Form.Check type="checkbox" label="Solution 3" />
+          <Form.Check type="checkbox" label="Analyse Disolved Oxygen" />
+          <Form.Check type="checkbox" label="Measuring the amount of Ammonia in the Water" />
+          <Form.Check type="checkbox" label="Tempature Measurement" />
         </Form.Group>
 
         <br />
         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-        <Form.Label><h5>Anything you'd like us to know?</h5></Form.Label>
+        <Form.Label><h5>Anything other features you'd be interested in ?</h5></Form.Label>
         <Form.Control as="textarea" rows={3} />
       </Form.Group>
         <Button variant="primary" type="submit">

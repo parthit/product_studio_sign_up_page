@@ -5,12 +5,13 @@ function WhoWeAre() {
     <div className="who_we_are">
         <div className="who_we_are-text_feilds">
             <p>
-            We are a group of students who have done their background research. Our team includes students from Operations, Design, Business, Law and Computer Science. 
+            We are business started in Cornell University, who has spent the past few months working on improving
+            farmerd fish welfare and health. Our team includes students from Operations, Design, Business, Law and Computer Science. 
             We are passionate about the space and want to solve problems that fish farmers face.
             </p>
             <p>
-            Not sure what else we can talk about here. may be link to some of our prior research ?
-            No sure if people would be interested. We can add a link to our docs
+            We our team has identified a few areas that are potent for disruption. Our solutions aim to solve problems in these
+            key metrics. 
             </p>
         </div>
     </div>

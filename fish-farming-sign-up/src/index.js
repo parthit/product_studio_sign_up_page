@@ -5,8 +5,10 @@ import './index.css';
 import Intro from './Header/intro';
 import reportWebVitals from './reportWebVitals';
 import GroupExample from './Body/Cards/our_solution';
+import VisualizationGroup from './Body/visualisations/visualization';
 import SignUp from './Body/Sign_up/signUp';
 import WhoWeAre from './Body/Background_Info/background_info';
+import WhatWeProvide from './Body/info_viz/background_info';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,7 +18,8 @@ root.render(
     <GroupExample />
     <br />
     <br />
-    <GroupExample />
+    <WhatWeProvide />
+    <VisualizationGroup />
     <br />
     <br />
     <SignUp />
