@@ -16,6 +16,9 @@ root.render(
     <GroupExample />
     <br />
     <br />
+    <GroupExample />
+    <br />
+    <br />
     <SignUp />
   </div>
 
