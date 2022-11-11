@@ -1,7 +1,7 @@
 import "./our_solution.css";
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
-
+import disolvedO2 from './disolvedO2.jpeg'
 
 function GroupExample() {
   return (
@@ -9,11 +9,15 @@ function GroupExample() {
       <CardGroup>
         <Card>     
           <Card.Body>
-            <Card.Title>This is our solution 1</Card.Title>
+            <Card.Title>Analyse Disolved Oxygen</Card.Title>
             <Card.Text>
-              Something that we will offer. This includes something basic
+              Using state of the art sensors to analyse 
+              dissolved oxyen. We will provide you insights
+              about how it affects fish welfare, send you alerts
+              when it's too low / high and give you predictive
+              analysis about those characteristics.
             </Card.Text>
-            <Card.Img variant="top" src="holder.js/100px160" />
+            <Card.Img variant="top" src={disolvedO2} />
           </Card.Body>
           <Card.Footer>
             <h3> $ 10 / month  </h3>
