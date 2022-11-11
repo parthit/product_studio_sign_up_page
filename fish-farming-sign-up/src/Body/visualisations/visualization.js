@@ -15,7 +15,7 @@ function VisualizationGroup() {
             <Card.Img variant="top" src={histogram} />
           </Card.Body>
           <Card.Footer>
-            <h3> Comparing of differnet factors </h3>
+            <h3> Comparing of different factors </h3>
           </Card.Footer>
         </Card>
         <Card>
