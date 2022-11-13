@@ -5,8 +5,8 @@ function WhoWeAre() {
     <div className="who_we_are">
         <div className="who_we_are-text_feilds">
             <p>
-            We are business started in Cornell University, who has spent the past few months working on improving
-            farmerd fish welfare and health. Our team includes students from Operations, Design, Business, Law and Computer Science. 
+            We are business created in Cornell University. We have spent the past few months working on improving
+            farmerd fish welfare and health. Our team collectively has a background in Operations, Design, Business, Chemistry, Law and Computer Science. 
             We are passionate about the space and want to solve problems that fish farmers face.
             </p>
             <p>

@@ -6,7 +6,7 @@ function WhatWeProvide() {
         <div className="who_we_are-text_feilds">
             <h2>
             As a part of our solution, we create visualisations and an alerting system. 
-            Below is an spanshot of a the visualisations and graphs we provide.
+            Below is an spanshot of the visualisations and graphs we provide.
             </h2>
         </div>
     </div>
