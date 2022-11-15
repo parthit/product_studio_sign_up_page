@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/product_studio_sign_up_page/static/css/main.b173b475.css",
-    "main.js": "/product_studio_sign_up_page/static/js/main.2f810b9f.js",
+    "main.css": "/product_studio_sign_up_page/static/css/main.6c116510.css",
+    "main.js": "/product_studio_sign_up_page/static/js/main.7b1a1bd8.js",
     "static/js/787.8326f1ac.chunk.js": "/product_studio_sign_up_page/static/js/787.8326f1ac.chunk.js",
     "static/media/Picture 5.png": "/product_studio_sign_up_page/static/media/Picture 5.0832f0f261a8e1752908.png",
     "static/media/disolvedO2.jpeg": "/product_studio_sign_up_page/static/media/disolvedO2.b6653dd95b90acbe8c36.jpeg",
@@ -10,12 +10,12 @@
     "static/media/temperature.jpeg": "/product_studio_sign_up_page/static/media/temperature.ad762356bca0fd1a12e7.jpeg",
     "static/media/ammonia.webp": "/product_studio_sign_up_page/static/media/ammonia.2349c38d7142b18cdab6.webp",
     "index.html": "/product_studio_sign_up_page/index.html",
-    "main.b173b475.css.map": "/product_studio_sign_up_page/static/css/main.b173b475.css.map",
-    "main.2f810b9f.js.map": "/product_studio_sign_up_page/static/js/main.2f810b9f.js.map",
+    "main.6c116510.css.map": "/product_studio_sign_up_page/static/css/main.6c116510.css.map",
+    "main.7b1a1bd8.js.map": "/product_studio_sign_up_page/static/js/main.7b1a1bd8.js.map",
     "787.8326f1ac.chunk.js.map": "/product_studio_sign_up_page/static/js/787.8326f1ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b173b475.css",
-    "static/js/main.2f810b9f.js"
+    "static/css/main.6c116510.css",
+    "static/js/main.7b1a1bd8.js"
   ]
 }
